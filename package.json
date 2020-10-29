@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "css-loader": "^2.1.1",
+    "extract-text-webpack-plugin": "^3.0.2",
     "style-loader": "^2.0.0"
   }
 }

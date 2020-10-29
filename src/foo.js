@@ -4,6 +4,6 @@
  * @LastEditors: sunhuapeng
  * @LastEditTime: 2020-10-13 19:40:34
  */
-export default function (){
-  document.write('I\' m using webpack-dev-server1!')
-}
+
+import "./foo-style.css";
+document.write("foo.js");
